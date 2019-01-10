@@ -1,5 +1,5 @@
 **A basic Vue.js E-Commerce web app.** 
-
+____________________________________
 
 
 
