@@ -1,13 +1,12 @@
-# e-commerce-site
+**A basic Vue.js E-Commerce web app.** 
+____________________________________
 
-> E-commerce Single Page Application
 
-# build for production with minification
 
-npm run build
 
-# build for production and view the bundle analyzer report
+![vue](https://user-images.githubusercontent.com/41505038/50954198-f45be080-1472-11e9-9a64-df7182e0a328.png)
 
-npm run build --report
+_____________________________________________________________________________________________________________________
 
-#E-commerce site built with shopping cart, authentication and full page checkout;
+
+![vue1](https://user-images.githubusercontent.com/41505038/50954554-f5414200-1473-11e9-8e0a-2d17a1084777.png)
